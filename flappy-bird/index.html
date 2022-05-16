@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ARQ-BIRD</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(39, 43, 48, 1);
+    }
+
+    canvas {
+      border-radius: 15px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    html,
+    body {
+      height: 100%;
+      overflow: hidden;
+      font-family: 'FIRA CODE', cursive;
+    }
+
+    h2 {
+      margin-bottom: 15px;
+    }
+
+    .footer{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #EFC44A;
+      width: 60%;
+    }
+
+    .footer i{
+      color: #FF2402;
+    }
+
+    .footer .icons .fa{
+      margin-right: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 style="color: #FFB800; font-family: 'Press Start 2P'; margin-top: 15px;">ARQ-BIRD</h1>
+
+  <div style="display: flex; justify-content: center; align-items: center; margin: auto;">
+
+    <div style="display: flex; flex-direction:column; color: #FFB800;">
+      <h2>Pergunta:</h2>
+      <h3 id="perguntas"></h3>
+    </div>
+
+    <canvas id="game-canvas" width="1280" height="620"></canvas>
+  </div>
+
+  <div class="footer">
+    <h3>Sobre mim</h3>
+    <p>Olá, me chamo Pedro, tenho 18 anos e gosto muito de gatinhos, na minha hora vaga eu fico assistindo qualquer tipo de campeonato principalmente de esporte eletrônico, torço pelo Lakers e tenho um crise de raiva toda vez que assisto eles :)<p>
+        <div class="icons">
+          <a href="https://www.facebook.com/pedro.jesuino.543"><i class="fa fa-facebook"></i></a>
+          <a href="https://www.instagram.com/jesuinopedro/"><i class="fa fa-instagram"></i></a>
+          <a href="https://github.com/Pedro-Jsn"><i class="fa fa-github"></i></a>
+        </div>
+        <p>Feito com <i class="fa fa-heart-o"></i> por Pedro Jesuino</p>
+  </div>
+  <script src="./script.js"></script>
+</body>
+
+</html>
