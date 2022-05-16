@@ -1,5 +1,5 @@
 
-# ARQ-BIRD
+# ARQ-BIRD :hatched_chick:
 
 Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas, sobre arquitetura computacional, se você se achar bom o suficiente para ganhar esse jogo de extrema dificuldade e profundo conhecimento.
 
