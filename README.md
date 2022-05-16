@@ -32,14 +32,14 @@ Olá, me chamo Pedro, tenho 18 anos e gosto muito de gatinhos, na minha hora vag
 
 - [ARQ-BIRD](https://pedro-jsn.github.io/ARQ-BIRD/)
 
-## Screenshots
+## :world_map: Screenshots
 
 Essa é uma imagem para tentar demonstrar como ficaria o jogo;
 
 ![App Screenshot](https://i.imgur.com/Xpk2441.png)
 
 
-## Feedback
+## :trophy: Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de pedro.sptech@sptech.school
 
