@@ -7,18 +7,18 @@ Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas
 
 
 
-## Referência de
+## Referência de :eyes:
 
  - [Flappy bird](https://flappybird.io/)
  
 
 
-## Feito por
+## Feito por :boy:
 
 - [@Pedro Henrique Jesuino Varela](https://github.com/Pedro-Jsn)
 
 
-## 🔗 Feito com
+## 🔗 Feito com :technologist:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
