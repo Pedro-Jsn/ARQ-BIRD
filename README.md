@@ -30,7 +30,7 @@ Olá, me chamo Pedro, tenho 18 anos e gosto muito de gatinhos, na minha hora vag
 
 ## Site hospedade
 
-- [ARQ-BIRD](https://pedro-jsn.github.io/arqiooo/)
+- [ARQ-BIRD](https://pedro-jsn.github.io/ARQ-BIRD/)
 
 ## Screenshots
 
