@@ -1,5 +1,5 @@
 
-# ARQ-BIRD :hatched_chick:
+# :hatched_chick: ARQ-BIRD 
 
 Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas, sobre arquitetura computacional, se você se achar bom o suficiente para ganhar esse jogo de extrema dificuldade e profundo conhecimento.
 
@@ -7,13 +7,13 @@ Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas
 
 
 
-## Referência de :eyes:
+## :eyes: Referência de 
 
  - [Flappy bird](https://flappybird.io/)
  
 
 
-## Feito por :boy:
+## :boy: Feito por 
 
 - [@Pedro Henrique Jesuino Varela](https://github.com/Pedro-Jsn)
 
@@ -28,7 +28,7 @@ Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas
 
 Olá, me chamo Pedro, tenho 18 anos e gosto muito de gatinhos, na minha hora vaga eu fico assistindo qualquer tipo de campeonato principalmente de esporte eletrônico, torço pelo Lakers e tenho um crise de raiva toda vez que assisto eles :)
 
-## 🔗 Site hospedade
+## 🔗 Site hospedado
 
 - [ARQ-BIRD](https://pedro-jsn.github.io/ARQ-BIRD/)
 
