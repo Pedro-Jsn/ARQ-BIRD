@@ -98,6 +98,8 @@ function pegarPerguntas(){
     respostaOK = perguntaResposta[id].resposta;
     respostaNO = perguntaResposta[idNo].resposta;
     perguntas.innerHTML = pergunta;
+  }else{
+    window.reload();
   }
 
   if(respostaOK == "MEMÓRIA DE MASSA" || respostaNO == "MEMÓRIA DE MASSA"){
