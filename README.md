@@ -23,7 +23,7 @@ Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas
 
 ## 🚀 Sobre mim
 
-Olá, me chamo Pedro, tenho 18 anos, na minha hora vaga eu fico assistindo qualquer tipo de campeonato principalmente de esporte eletrônico.
+Olá, me chamo Pedro, tenho 18 anos, na minha hora vaga eu fico assistindo qualquer tipo de campeonato principalmente de esporte eletrônico, sou apaixonado por programação e adoro aprender coisas novas.
 
 ## 🔗 Site hospedado
 
