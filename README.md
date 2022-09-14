@@ -4,9 +4,6 @@
 Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas, sobre arquitetura computacional, se você se achar bom o suficiente para ganhar esse jogo de extrema dificuldade e profundo conhecimento.
 
 
-
-
-
 ## :eyes: Referência de 
 
  - [Flappy bird](https://flappybird.io/)
@@ -26,7 +23,7 @@ Um jogo baseado no flappy bird, com perguntas randômicas para serem respondidas
 
 ## 🚀 Sobre mim
 
-Olá, me chamo Pedro, tenho 18 anos e gosto muito de gatinhos, na minha hora vaga eu fico assistindo qualquer tipo de campeonato principalmente de esporte eletrônico, torço pelo Lakers e tenho um crise de raiva toda vez que assisto eles :)
+Olá, me chamo Pedro, tenho 18 anos, na minha hora vaga eu fico assistindo qualquer tipo de campeonato principalmente de esporte eletrônico.
 
 ## 🔗 Site hospedado
 
@@ -34,7 +31,7 @@ Olá, me chamo Pedro, tenho 18 anos e gosto muito de gatinhos, na minha hora vag
 
 ## :world_map: Screenshots
 
-Essa é uma imagem para tentar demonstrar como ficaria o jogo;
+Imagem de demostração como ficou o jogo;
 
 ![App Screenshot](https://i.imgur.com/Xpk2441.png)
 
